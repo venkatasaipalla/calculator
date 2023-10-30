@@ -1,0 +1,18 @@
+body{
+    background-image: linear-gradient(to right, rgb(32, 168, 222),rgb(0, 173, 241), rgb(133, 237, 133),rgb(73, 220, 73));
+    /* background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1)); */
+}
+.c2{
+    
+    background: linear-gradient(to left,
+                    violet,
+                    indigo,
+                    blue,
+                    green,
+                    yellow,
+                    orange,
+                    red);
+            -webkit-background-clip: text;
+            color: transparent;
+        
+}
